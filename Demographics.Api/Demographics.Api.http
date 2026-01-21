@@ -1,0 +1,6 @@
+@Demographics.Api_HostAddress = http://localhost:5264
+
+GET {{Demographics.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
